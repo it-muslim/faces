@@ -26,6 +26,7 @@
 | --- | --- | --- | --- | --- | --- |
 [Мурад Арслангираев](#мурад-арслангираев) | Дагестан | 1994 | РПА | Front-End Developer | 06.03.2021 |
 [Мухаммад Имангазалиев](#мухаммад-имангазалиев) | Дагестан | 1997 | ДГУ | Веб-разработка | 06.03.2021 |
+[Айдар Фатхутдинов](#айдар-фатхутдинов) | Башкортостан | 1994 | УГАТУ | iOS-разработка | 06.03.2021 |
 
 ### Мурад Арслангираев
 
@@ -53,3 +54,17 @@
 - [LinkedIn](https://www.linkedin.com/in/muhammad-imangazaliev/)
 - [GitHub](https://github.com/Imangazaliev)
 - [Habr](https://habr.com/ru/users/muhammad_97/)
+
+### Айдар Фатхутдинов
+
+Технологии:
+
+- Swift (UIKit, SwiftUI)
+- Dart (Flutter)
+
+Контакты:
+
+- [Telegram](https://t.me/aidarjkee)
+- [LinkedIn](https://www.linkedin.com/in/aidarjkee)
+- [GitHub](https://github.com/aidarjkee)
+- [Habr](https://habr.com/ru/users/fatkhutdinov1)
