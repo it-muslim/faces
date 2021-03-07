@@ -32,6 +32,7 @@
 Имя | Город/Регион | Год рождения | ВУЗ | Направление/Позиция | Дата обновления |
 | --- | --- | --- | --- | --- | --- |
 [Айдар Фатхутдинов](#айдар-фатхутдинов) | Башкортостан | 1994 | УГАТУ | iOS-разработка | 06.03.2021 |
+[Иса Эзербаев](#иса-эзербаев) | Чечня | 1997 | ГГНТУ | Backend (Python/Django) Developer | 07.03.2021 |
 [Махач Имангазалиев](#махач-имангазалиев) | Дагестан | 1997 | ДГУ | Senior Android Developer | 07.03.2021 |
 [Мурад Арслангираев](#мурад-арслангираев) | Дагестан | 1994 | РПА | Front-End Developer | 06.03.2021 |
 [Мухаммад Имангазалиев](#мухаммад-имангазалиев) | Дагестан | 1997 | ДГУ | Full Stack (Laravel + React) Developer | 06.03.2021 |
@@ -52,6 +53,22 @@
 - [LinkedIn](https://www.linkedin.com/in/aidarjkee)
 - [GitHub](https://github.com/aidarjkee)
 - [Habr](https://habr.com/ru/users/fatkhutdinov1)
+
+### Иса Эзербаев
+
+Технологии:
+
+- Python (Flask, Django)
+
+Контакты:
+
+- [Instagram](https://www.instagram.com/i.monoteist/)
+- [Telegram](https://t.me/iezerbaev)
+- [GitHub](https://github.com/iezerbaev)
+
+Резюме:
+
+- [Хабр Карьера](https://career.habr.com/isa-ezerbaev)
 
 ### Махач Имангазалиев
 
