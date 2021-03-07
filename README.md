@@ -42,6 +42,25 @@
 [Сергей Таранов](#сергей-таранов) | Казань | 1982 | УлГУ | Full Stack (с перевесом на Backend) | 07.03.2021 |
 [Эльбрус Гасанов](#эльбрус-гасанов) | Дагестан | 1994 | УрФУ | Backend (Python/Django) Developer | 07.03.2021 |
 [Яхья Картоев](#яхья-картоев) | Москва/Ингушетия | 1993 | МГТУ им. Баумана | Backend (Golang) Developer | 07.03.2021 |
+[Адхам Мухаммаджонов](#Адхам-Мухаммаджонов) | Узбекистан/Харезм | 1995 | Inha in tashkent | Front-end / Mobile dev | 08.03.2021 |
+
+### Адхам Мухаммаджонов
+
+Технологии:
+
+- Vuejs (vue-router, vuex)
+- Nodejs (Expressjs)
+- MongoDB
+- Go-lang
+- Nativescript-vue
+
+Контакты:
+
+- [Telegram](https://t.me/a_mukhammadjonov)
+- [LinkedIn](https://www.linkedin.com/in/adham-muhammadjonov-1a6502197/)
+- [GitHub](https://github.com/Adham2023)
+- [Instagram](https://www.instagram.com/adham.m23/)
+
 
 ### Айдар Фатхутдинов
 
