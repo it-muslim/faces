@@ -32,6 +32,7 @@
 Имя | Город/Регион | Год рождения | ВУЗ | Направление/Позиция | Дата обновления |
 | --- | --- | --- | --- | --- | --- |
 [Айдар Фатхутдинов](#айдар-фатхутдинов) | Башкортостан | 1994 | УГАТУ | iOS-разработка | 06.03.2021 |
+[Махач Имангазалиев](#махач-имангазалиев) | Дагестан | 1997 | ДГУ | Senior Android Developer | 07.03.2021 |
 [Мурад Арслангираев](#мурад-арслангираев) | Дагестан | 1994 | РПА | Front-End Developer | 06.03.2021 |
 [Мухаммад Имангазалиев](#мухаммад-имангазалиев) | Дагестан | 1997 | ДГУ | Full Stack (Laravel + React) Developer | 06.03.2021 |
 [Сергей Таранов](#сергей-таранов) | Казань | 1982 | УлГУ | Full Stack (с перевесом на Backend) | 07.03.2021 |
@@ -51,6 +52,18 @@
 - [LinkedIn](https://www.linkedin.com/in/aidarjkee)
 - [GitHub](https://github.com/aidarjkee)
 - [Habr](https://habr.com/ru/users/fatkhutdinov1)
+
+### Махач Имангазалиев
+
+Технологии:
+
+- Android: Kotlin, Java
+- Node.js: TypeScript, JavaScript
+- Front-end: Vue.js
+
+- [Telegram](https://t.me/unniked)
+- [GitHub](https://github.com/ImangazalievM)
+- [Habr](https://habr.com/ru/users/imangazalievm)
 
 ### Мурад Арслангираев
 
