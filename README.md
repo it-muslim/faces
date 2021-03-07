@@ -36,6 +36,7 @@
 [Мухаммад Имангазалиев](#мухаммад-имангазалиев) | Дагестан | 1997 | ДГУ | Full Stack (Laravel + React) Developer | 06.03.2021 |
 [Сергей Таранов](#сергей-таранов) | Казань | 1982 | УлГУ | Full Stack (с перевесом на Backend) | 07.03.2021 |
 [Эльбрус Гасанов](#эльбрус-гасанов) | Дагестан | 1994 | УрФУ | Backend (Python/Django) Developer | 07.03.2021 |
+[Яхья Картоев](#яхья-картоев) | Москва/Ингушетия | 1993 | МГТУ им. Баумана | Backend (Golang) Developer | 07.03.2021 |
 
 ### Айдар Фатхутдинов
 
@@ -124,3 +125,19 @@
 Резюме:
 
 - [Хабр Карьера](https://career.habr.com/elbrusgasanov)
+
+### Яхья Картоев
+
+Технологии:
+- Golang
+- JavaScript (Node.js)
+
+Контакты:
+
+- [Telegram](https://t.me/jumkarto)
+- [LinkedIn](https://www.linkedin.com/in/jumkarto/)
+- [GitHub](https://github.com/yakartoev)
+
+Резюме:
+
+- [Хабр Карьера](https://career.habr.com/yakartoev)
