@@ -33,9 +33,12 @@
 | --- | --- | --- | --- | --- | --- |
 [Айдар Фатхутдинов](#айдар-фатхутдинов) | Башкортостан | 1994 | УГАТУ | iOS-разработка | 06.03.2021 |
 [Иса Эзербаев](#иса-эзербаев) | Чечня | 1997 | ГГНТУ | Backend (Python/Django) Developer | 07.03.2021 |
+[Махач Имангазалиев](#махач-имангазалиев) | Дагестан | 1997 | ДГУ | Senior Android Developer | 07.03.2021 |
 [Мурад Арслангираев](#мурад-арслангираев) | Дагестан | 1994 | РПА | Front-End Developer | 06.03.2021 |
 [Мухаммад Имангазалиев](#мухаммад-имангазалиев) | Дагестан | 1997 | ДГУ | Full Stack (Laravel + React) Developer | 06.03.2021 |
+[Сергей Таранов](#сергей-таранов) | Казань | 1982 | УлГУ | Full Stack (с перевесом на Backend) | 07.03.2021 |
 [Эльбрус Гасанов](#эльбрус-гасанов) | Дагестан | 1994 | УрФУ | Backend (Python/Django) Developer | 07.03.2021 |
+[Яхья Картоев](#яхья-картоев) | Москва/Ингушетия | 1993 | МГТУ им. Баумана | Backend (Golang) Developer | 07.03.2021 |
 
 ### Айдар Фатхутдинов
 
@@ -50,7 +53,6 @@
 - [LinkedIn](https://www.linkedin.com/in/aidarjkee)
 - [GitHub](https://github.com/aidarjkee)
 - [Habr](https://habr.com/ru/users/fatkhutdinov1)
-
 
 ### Иса Эзербаев
 
@@ -68,6 +70,23 @@
 
 - [Хабр Карьера](https://career.habr.com/isa-ezerbaev)
 
+### Махач Имангазалиев
+
+Технологии:
+
+- Android: Kotlin, Java
+- Node.js: TypeScript, JavaScript
+- Front-end: Vue.js
+
+Контакты:
+
+- [Telegram](https://t.me/unniked)
+- [GitHub](https://github.com/ImangazalievM)
+- [Habr](https://habr.com/ru/users/imangazalievm)
+
+Резюме:
+
+- [Хабр Карьера](https://career.habr.com/imangazalievm)
 
 ### Мурад Арслангираев
 
@@ -103,6 +122,29 @@
 
 - [Хабр Карьера](https://career.habr.com/muhammad97)
 
+### Сергей Таранов
+
+Технологии:
+
+- PHP (Yii2, Lumen, Laravel)
+- Node.js
+- Python
+- MySQL
+- JavaScript, jQuery, Vue, Angular
+- CSS, Bootstrap
+
+Проекты:
+
+- Коммерческие на Yii2, Laravel, Lumen
+- Начинал когда-то в 1999 с самописного сайта интернет-магазина на PHP 5 + Firebird, Wordpress, MODx
+- Open-source и коммерческие, связанные с технологиями криптовалютного проекта DigiByte. Некоторые примеры на сайте https://www.digibyted.ru/
+- Скрипты для отправки СМС и учета доставки, роботы в Telegram, сбора данных в интернете, определения характерестик для каталога компьютерной техники и др
+
+Контакты:
+
+- [Telegram](https://t.me/cept73)
+- [GitHub](https://github.com/cept73)
+- Email: cept73 соб@чка yandex .ru
 
 ### Эльбрус Гасанов
 
@@ -119,3 +161,19 @@
 Резюме:
 
 - [Хабр Карьера](https://career.habr.com/elbrusgasanov)
+
+### Яхья Картоев
+
+Технологии:
+- Golang
+- JavaScript (Node.js)
+
+Контакты:
+
+- [Telegram](https://t.me/jumkarto)
+- [LinkedIn](https://www.linkedin.com/in/jumkarto/)
+- [GitHub](https://github.com/yakartoev)
+
+Резюме:
+
+- [Хабр Карьера](https://career.habr.com/yakartoev)
