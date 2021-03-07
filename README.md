@@ -67,6 +67,10 @@
 - [GitHub](https://github.com/ImangazalievM)
 - [Habr](https://habr.com/ru/users/imangazalievm)
 
+Резюме:
+
+- [Хабр Карьера](https://career.habr.com/imangazalievm)
+
 ### Мурад Арслангираев
 
 Технологии:
