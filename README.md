@@ -124,3 +124,19 @@
 Резюме:
 
 - [Хабр Карьера](https://career.habr.com/elbrusgasanov)
+
+### Яхья Картоев
+
+Технологии:
+- Golang
+- JavaScript (Node.js)
+
+Контакты:
+
+- [Telegram](https://t.me/jumkarto)
+- [LinkedIn](https://www.linkedin.com/in/jumkarto/)
+- [GitHub](https://github.com/yakartoev)
+
+Резюме:
+
+- [Хабр Карьера](https://career.habr.com/yakartoev)
