@@ -40,6 +40,10 @@
 - [GitHub](https://github.com/webdevmurad)
 - [Habr](https://career.habr.com/muradars)
 
+Резюме:
+
+- [Хабр Карьера](https://career.habr.com/muradars)
+
 ### Мухаммад Имангазалиев
 
 Технологии:
@@ -53,3 +57,7 @@
 - [LinkedIn](https://www.linkedin.com/in/muhammad-imangazaliev/)
 - [GitHub](https://github.com/Imangazaliev)
 - [Habr](https://habr.com/ru/users/muhammad_97/)
+
+Резюме:
+
+- [Хабр Карьера](https://career.habr.com/muhammad97)
