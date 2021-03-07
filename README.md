@@ -38,6 +38,7 @@
 [Махач Имангазалиев](#махач-имангазалиев) | Дагестан | 1997 | ДГУ | Senior Android Developer | 07.03.2021 |
 [Мурад Арслангираев](#мурад-арслангираев) | Дагестан | 1994 | РПА | Front-End Developer | 06.03.2021 |
 [Мухаммад Имангазалиев](#мухаммад-имангазалиев) | Дагестан | 1997 | ДГУ | Full Stack (Laravel + React) Developer | 06.03.2021 |
+[Рустам Зиннуров](#рустам-зиннуров) | Башкортостан | 1979 | УЭК | Full Stack Web Developer | 07.03.2021 |
 [Сергей Таранов](#сергей-таранов) | Казань | 1982 | УлГУ | Full Stack (с перевесом на Backend) | 07.03.2021 |
 [Эльбрус Гасанов](#эльбрус-гасанов) | Дагестан | 1994 | УрФУ | Backend (Python/Django) Developer | 07.03.2021 |
 [Яхья Картоев](#яхья-картоев) | Москва/Ингушетия | 1993 | МГТУ им. Баумана | Backend (Golang) Developer | 07.03.2021 |
@@ -123,6 +124,20 @@
 Резюме:
 
 - [Хабр Карьера](https://career.habr.com/muhammad97)
+
+### Рустам Зиннуров
+
+Технологии:
+
+- PHP (Laravel)
+- Node.js (Nestjs, Express)
+- JavaScript( jQuery, Vue)
+
+Контакты:
+
+- [Telegram](https://t.me/RustamZinnurov)
+- [habr](https://career.habr.com/rustamrz)
+- Email: sabah@bk.ru
 
 ### Сергей Таранов
 
