@@ -61,6 +61,8 @@
 - Node.js: TypeScript, JavaScript
 - Front-end: Vue.js
 
+Контакты:
+
 - [Telegram](https://t.me/unniked)
 - [GitHub](https://github.com/ImangazalievM)
 - [Habr](https://habr.com/ru/users/imangazalievm)
