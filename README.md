@@ -59,7 +59,6 @@
 - [Telegram](https://t.me/QwertyaMur)
 - [LinkedIn](https://www.linkedin.com/in/murad-arslangiraev-603308190/)
 - [GitHub](https://github.com/webdevmurad)
-- [Habr](https://career.habr.com/muradars)
 
 Резюме:
 
