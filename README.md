@@ -42,6 +42,7 @@
 [Сергей Таранов](#сергей-таранов) | Казань | 1982 | УлГУ | Full Stack (с перевесом на Backend) | 07.03.2021 |
 [Эльбрус Гасанов](#эльбрус-гасанов) | Дагестан | 1994 | УрФУ | Backend (Python/Django) Developer | 07.03.2021 |
 [Яхья Картоев](#яхья-картоев) | Москва/Ингушетия | 1993 | МГТУ им. Баумана | Backend (Golang) Developer | 07.03.2021 |
+[Илез Курскиев](#илез-курскиев) | Ингушетия | 1996 | ПГЛУ | Senior Frontend Developer | 08.03.2021 |
 
 ### Айдар Фатхутдинов
 
@@ -180,3 +181,18 @@
 Резюме:
 
 - [Хабр Карьера](https://career.habr.com/yakartoev)
+
+### Илез Курскиев
+
+Технологии:
+- JavaScript
+
+Контакты:
+
+- [Telegram](https://t.me/ilezus)
+- [LinkedIn](https://www.linkedin.com/in/илез-курскиев-6b8096147/)
+- [GitHub](https://github.com/ilezus-dev)
+
+Резюме:
+
+- [Хабр Карьера](https://career.habr.com/moikrug-leo)
