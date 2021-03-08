@@ -34,7 +34,9 @@
 
 Имя | Город/Регион | Год рождения | ВУЗ | Направление/Позиция | Дата обновления |
 | --- | --- | --- | --- | --- | --- |
+[Адхам Мухаммаджонов](#адхам-мухаммаджонов) | Узбекистан/Харезм | 1995 | Inha in tashkent | Front-end / Mobile dev | 08.03.2021 |
 [Айдар Фатхутдинов](#айдар-фатхутдинов) | Башкортостан | 1994 | УГАТУ | iOS-разработка | 06.03.2021 |
+[Илез Курскиев](#илез-курскиев) | Ингушетия | 1996 | ПГЛУ | Senior Frontend Developer | 08.03.2021 |
 [Иса Эзербаев](#иса-эзербаев) | Чечня | 1997 | ГГНТУ | Backend (Python/Django) Developer | 07.03.2021 |
 [Махач Имангазалиев](#махач-имангазалиев) | Дагестан | 1997 | ДГУ | Senior Android Developer | 07.03.2021 |
 [Мурад Арслангираев](#мурад-арслангираев) | Дагестан | 1994 | РПА | Front-End Developer | 06.03.2021 |
@@ -43,7 +45,23 @@
 [Сергей Таранов](#сергей-таранов) | Казань | 1982 | УлГУ | Full Stack (с перевесом на Backend) | 07.03.2021 |
 [Эльбрус Гасанов](#эльбрус-гасанов) | Дагестан | 1994 | УрФУ | Backend (Python/Django) Developer | 07.03.2021 |
 [Яхья Картоев](#яхья-картоев) | Москва/Ингушетия | 1993 | МГТУ им. Баумана | Backend (Golang) Developer | 07.03.2021 |
-[Илез Курскиев](#илез-курскиев) | Ингушетия | 1996 | ПГЛУ | Senior Frontend Developer | 08.03.2021 |
+
+### Адхам Мухаммаджонов
+
+Технологии:
+
+- Vuejs (vue-router, vuex)
+- Nodejs (Expressjs)
+- MongoDB
+- Go-lang
+- Nativescript-vue
+
+Контакты:
+
+- [Telegram](https://t.me/a_mukhammadjonov)
+- [LinkedIn](https://www.linkedin.com/in/adham-muhammadjonov-1a6502197/)
+- [GitHub](https://github.com/Adham2023)
+- [Instagram](https://www.instagram.com/adham.m23/)
 
 ### Айдар Фатхутдинов
 
@@ -58,6 +76,21 @@
 - [LinkedIn](https://www.linkedin.com/in/aidarjkee)
 - [GitHub](https://github.com/aidarjkee)
 - [Habr](https://habr.com/ru/users/fatkhutdinov1)
+
+### Илез Курскиев
+
+Технологии:
+- JavaScript
+
+Контакты:
+
+- [Telegram](https://t.me/ilezus)
+- [LinkedIn](https://www.linkedin.com/in/илез-курскиев-6b8096147/)
+- [GitHub](https://github.com/ilezus-dev)
+
+Резюме:
+
+- [Хабр Карьера](https://career.habr.com/moikrug-leo)
 
 ### Иса Эзербаев
 
@@ -196,18 +229,3 @@
 Резюме:
 
 - [Хабр Карьера](https://career.habr.com/yakartoev)
-
-### Илез Курскиев
-
-Технологии:
-- JavaScript
-
-Контакты:
-
-- [Telegram](https://t.me/ilezus)
-- [LinkedIn](https://www.linkedin.com/in/илез-курскиев-6b8096147/)
-- [GitHub](https://github.com/ilezus-dev)
-
-Резюме:
-
-- [Хабр Карьера](https://career.habr.com/moikrug-leo)
