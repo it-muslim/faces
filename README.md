@@ -36,6 +36,7 @@
 | --- | --- | --- | --- | --- | --- |
 [Адхам Мухаммаджонов](#адхам-мухаммаджонов) | Узбекистан/Харезм | 1995 | Inha in tashkent | Front-end / Mobile dev | 08.03.2021 |
 [Айдар Фатхутдинов](#айдар-фатхутдинов) | Башкортостан | 1994 | УГАТУ | iOS-разработка | 06.03.2021 |
+[Геннадий Муталибов](#геннадий-муталибов) | Стаханов/ЛНР | 1982 | Отсутсвтует | Front-end | 08.03.2021 |
 [Илез Курскиев](#илез-курскиев) | Ингушетия | 1996 | ПГЛУ | Senior Frontend Developer | 08.03.2021 |
 [Иса Эзербаев](#иса-эзербаев) | Чечня | 1997 | ГГНТУ | Backend (Python/Django) Developer | 07.03.2021 |
 [Махач Имангазалиев](#махач-имангазалиев) | Дагестан | 1997 | ДГУ | Senior Android Developer | 07.03.2021 |
@@ -45,6 +46,7 @@
 [Сергей Таранов](#сергей-таранов) | Казань | 1982 | УлГУ | Full Stack (с перевесом на Backend) | 07.03.2021 |
 [Эльбрус Гасанов](#эльбрус-гасанов) | Дагестан | 1994 | УрФУ | Backend (Python/Django) Developer | 07.03.2021 |
 [Яхья Картоев](#яхья-картоев) | Москва/Ингушетия | 1993 | МГТУ им. Баумана | Backend (Golang) Developer | 07.03.2021 |
+
 
 ### Адхам Мухаммаджонов
 
@@ -76,6 +78,24 @@
 - [LinkedIn](https://www.linkedin.com/in/aidarjkee)
 - [GitHub](https://github.com/aidarjkee)
 - [Habr](https://habr.com/ru/users/fatkhutdinov1)
+
+### Геннадий Муталибов
+
+Технологии:
+- HTML
+- CSS/SCSS
+- JavaScript
+
+Контакты:
+
+- [Telegram](https://t.me/abu_ahmad132)
+- [LinkedIn](https://www.linkedin.com/in/геннадий-муталибов-050b90135/)
+- [Website](http://webworkertrue.ru)
+- [Facebook](https://www.facebook.com/gmutalibov/)
+
+Резюме:
+
+- [HeadHunter](https://hh.ru/resume/075fc1f3ff078a56d30039ed1f614475687a78)
 
 ### Илез Курскиев
 
@@ -229,3 +249,5 @@
 Резюме:
 
 - [Хабр Карьера](https://career.habr.com/yakartoev)
+
+
