@@ -43,6 +43,7 @@
 [Мухаммад Имангазалиев](#мухаммад-имангазалиев) | Дагестан | 1997 | ДГУ | Full Stack (Laravel + React) Developer | 06.03.2021 |
 [Рустам Зиннуров](#рустам-зиннуров) | Башкортостан | 1979 | УЭК | Full Stack Web Developer | 07.03.2021 |
 [Сергей Таранов](#сергей-таранов) | Казань | 1982 | УлГУ | Full Stack (с перевесом на Backend) | 07.03.2021 |
+[Шамиль Шамилов](#шамиль-шамилов) | Грозный/Москва | 1996 | ГГНТУ | Android Developer | 08.03.2021 |
 [Эльбрус Гасанов](#эльбрус-гасанов) | Дагестан | 1994 | УрФУ | Backend (Python/Django) Developer | 07.03.2021 |
 [Яхья Картоев](#яхья-картоев) | Москва/Ингушетия | 1993 | МГТУ им. Баумана | Backend (Golang) Developer | 07.03.2021 |
 
@@ -197,6 +198,17 @@
 - [Telegram](https://t.me/cept73)
 - [GitHub](https://github.com/cept73)
 - Email: cept73 соб@чка yandex .ru
+
+### Шамиль Шамилов
+
+Технологии:
+- Android: Java, Kotlin
+- Flutter: Dart
+
+Контакты:
+- [Telegram](https://t.me/Shamillov)
+- [Instagram](https://www.instagram.com/shamillov)
+- [GitHub](https://github.com/shamillov)
 
 ### Эльбрус Гасанов
 
