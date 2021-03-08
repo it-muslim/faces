@@ -38,6 +38,7 @@
 [Адхам Мухаммаджонов](#адхам-мухаммаджонов) | Узбекистан/Харезм | 1995 | Inha in tashkent | Front-end / Mobile dev | 08.03.2021 |
 [Айдар Фатхутдинов](#айдар-фатхутдинов) | Башкортостан | 1994 | УГАТУ | iOS-разработка | 06.03.2021 |
 [Геннадий Муталибов](#геннадий-муталибов) | Стаханов/ЛНР | 1982 | Нет | Front-end | 08.03.2021 |
+[Джавид Рашидов](#джавид-рашидов) | Дагестан | 1994 | ДГУ | Front-end | 08.03.2021 |
 [Илез Курскиев](#илез-курскиев) | Ингушетия | 1996 | ПГЛУ | Senior Frontend Developer | 08.03.2021 |
 [Иса Эзербаев](#иса-эзербаев) | Чечня | 1997 | ГГНТУ | Backend (Python/Django) Developer | 07.03.2021 |
 [Махач Имангазалиев](#махач-имангазалиев) | Дагестан | 1997 | ДГУ | Senior Android Developer | 07.03.2021 |
@@ -108,6 +109,24 @@
 Резюме:
 
 - [HeadHunter](https://hh.ru/resume/075fc1f3ff078a56d30039ed1f614475687a78)
+
+### Джавид Рашидов
+
+Технологии:
+- HTML
+- CSS
+- JavaScript (ReactJS, Redux)
+
+Контакты:
+
+- [Telegram](https://t.me/rashidovDS)
+- [LinkedIn](https://www.linkedin.com/in/rashidovd/)
+- [Facebook](https://www.facebook.com/rashidovDzh)
+- [GitHub](https://github.com/rashidovD)
+
+Резюме:
+
+- [HeadHunter](https://hh.ru/resume/b99d1b6eff075f850c0039ed1f6f4669765975)
 
 ### Илез Курскиев
 
