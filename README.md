@@ -53,8 +53,8 @@
 
 Технологии:
 
-- HTML,CSS
-- 
+- HTML, CSS
+
 Контакты:
 
 - [Telegram](https://t.me/abdullah_evlo)
