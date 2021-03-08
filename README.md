@@ -39,6 +39,7 @@
 | --- | --- | --- | --- | --- | --- |
 [Абдуллах Евлоев](#абдуллах-евлоев) | Ингушетия | 1993 | ДГТУ | Front-end | 08.03.2021 |
 [Адхам Мухаммаджонов](#адхам-мухаммаджонов) | Узбекистан/Харезм | 1995 | Inha in tashkent | Front-end / Mobile dev | 08.03.2021 |
+[Агалар Ашурбеков](#агалар-ашурбеков) | Казань/Дагестан | 1991 | КубГТУ | Frontend-разработчик | 08.03.2021 |
 [Айдар Фатхутдинов](#айдар-фатхутдинов) | Башкортостан | 1994 | УГАТУ | iOS-разработка | 06.03.2021 |
 [Геннадий Муталибов](#геннадий-муталибов) | Стаханов/ЛНР | 1982 | Нет | Front-end | 08.03.2021 |
 [Джавид Рашидов](#джавид-рашидов) | Дагестан | 1994 | ДГУ | Front-end | 08.03.2021 |
@@ -81,6 +82,26 @@
 - [LinkedIn](https://www.linkedin.com/in/adham-muhammadjonov-1a6502197/)
 - [GitHub](https://github.com/Adham2023)
 - [Instagram](https://www.instagram.com/adham.m23/)
+
+### Агалар Ашурбеков
+
+Технологии:
+
+- HTML
+- CSS/SCSS/Less
+- Vue.js, Nuxt.js
+- Angular, TypeScript, RxJs
+
+Контакты:
+
+- [Telegram](https://t.me/agalar_a)
+- [LinkedIn](https://www.linkedin.com/in/agalar-ashurbekov-3a1824113/)
+- [GitHub](https://github.com/agalar)
+- [Instagram](https://www.instagram.com/go1st.io)
+
+Резюме:
+
+- [HH](https://kazan.hh.ru/resume/c035e2fbff02dd415d0039ed1f6d68665a564e)
 
 ### Айдар Фатхутдинов
 
