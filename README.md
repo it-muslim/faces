@@ -265,7 +265,7 @@
 Контакты:
 
 - [Telegram](https://t.me/RustamZinnurov)
-- [habr](https://career.habr.com/rustamrz)
+- [Habr](https://career.habr.com/rustamrz)
 - Email: sabah@bk.ru
 
 ### Сергей Таранов
