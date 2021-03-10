@@ -56,6 +56,7 @@
 [Шамиль Шамилов](#шамиль-шамилов) | Грозный/Москва | 1996 | ГГНТУ | Android Developer | 08.03.2021 |
 [Эльбрус Гасанов](#эльбрус-гасанов) | Дагестан | 1994 | УрФУ | Backend (Python/Django) Developer | 07.03.2021 |
 [Яхья Картоев](#яхья-картоев) | Москва/Ингушетия | 1993 | МГТУ им. Баумана | Backend (Golang) Developer | 07.03.2021 |
+[Рустам Гулиев](#рустам-гулиев) | Москва | 1990 | МГУ | Backend | 10.03.2021 |
 
 ### Абдуллах Евлоев
 
@@ -366,4 +367,15 @@
 
 - [Хабр Карьера](https://career.habr.com/yakartoev)
 
+
+### Рустам Гулиев
+
+Технологии:
+- Python / Django
+
+Контакты:
+- [LinkedIn](https://www.linkedin.com/in/rustam-guliev-32947760/)
+- [GitHub](https://github.com/rguliev)
+- [GitLab](https://gitlab.com/rguliev)
+- [Instagram](https://www.instagram.com/rustam.r.guliev/)
 
