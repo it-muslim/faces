@@ -52,6 +52,7 @@
 [Рустам Зиннуров](#рустам-зиннуров) | Башкортостан | 1979 | УЭК | Full Stack Web Developer | 07.03.2021 |
 [Сергей Таранов](#сергей-таранов) | Казань | 1982 | УлГУ | Full Stack (с перевесом на Backend) | 07.03.2021 |
 [Убайдулла Исаев](#убайдулла-исаев) | Дагестан | 1993 | ДГУ | Frontend-разработчик | 09.03.2021 |
+[Шамиль Курбонов](#шамиль-курбонов) | Душанбе/Таджикистан | 1998 | НИ ТПУ | Full Stack | 10.03.2021 |
 [Шамиль Шамилов](#шамиль-шамилов) | Грозный/Москва | 1996 | ГГНТУ | Android Developer | 08.03.2021 |
 [Эльбрус Гасанов](#эльбрус-гасанов) | Дагестан | 1994 | УрФУ | Backend (Python/Django) Developer | 07.03.2021 |
 [Яхья Картоев](#яхья-картоев) | Москва/Ингушетия | 1993 | МГТУ им. Баумана | Backend (Golang) Developer | 07.03.2021 |
@@ -306,6 +307,21 @@
 Резюме:
 
 - [Хабр Карьера](https://career.habr.com/ubaidullah)
+
+### Шамиль Курбонов
+
+Технологии:
+- JavaScript (jQuery, Vue, NuxtJS)
+- Nodejs (NestJS, Expressjs)
+- PHP (Symfony, Laravel)
+- Python (Flask)
+- MongoDB, ClickHouse
+
+Контакты:
+- [Telegram](https://t.me/shamil_dv)
+- [LinkedIn](https://www.linkedin.com/in/shamil8/)
+- [GitHub](https://github.com/shamil8)
+- [Instagram](https://www.instagram.com/shamil_dv/)
 
 ### Шамиль Шамилов
 
