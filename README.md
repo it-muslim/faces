@@ -43,12 +43,14 @@
 [Айдар Фатхутдинов](#айдар-фатхутдинов) | Башкортостан | 1994 | УГАТУ | iOS-разработка | 06.03.2021 |
 [Геннадий Муталибов](#геннадий-муталибов) | Стаханов, ЛНР | 1982 | Нет | Front-end | 08.03.2021 |
 [Джавид Рашидов](#джавид-рашидов) | Дагестан | 1994 | ДГУ | Front-end | 08.03.2021 |
+[Ибрагим Аушев](#ибрагим-аушев) | Ялта/Ингушетия | 1997 | КФУ. ГПА им Вернадского | Backend (PHP) Developer | 10.03.2021 |
 [Илез Курскиев](#илез-курскиев) | Ингушетия | 1996 | ПГЛУ | Senior Frontend Developer | 08.03.2021 |
 [Иса Эзербаев](#иса-эзербаев) | Чечня | 1997 | ГГНТУ | Backend (Python/Django) Developer | 07.03.2021 |
 [Махач Имангазалиев](#махач-имангазалиев) | Дагестан | 1997 | ДГУ | Senior Android Developer | 07.03.2021 |
 [Мурад Арслангираев](#мурад-арслангираев) | Дагестан | 1994 | РПА | Front-End Developer | 06.03.2021 |
 [Мухаммад Имангазалиев](#мухаммад-имангазалиев) | Дагестан | 1997 | ДГУ | Full Stack (Laravel + React) Developer | 06.03.2021 |
 [Ренат Сулейманов](#ренат-сулейманов) | Астраханская область | 1978 | АГТУ | Backend (desktop/services/web etc) | 08.03.2021 |
+[Рустам Гулиев](#рустам-гулиев) | Москва | 1990 | МГУ | Backend | 10.03.2021 |
 [Рустам Зиннуров](#рустам-зиннуров) | Башкортостан | 1979 | УЭК | Full Stack Web Developer | 07.03.2021 |
 [Сергей Таранов](#сергей-таранов) | Казань | 1982 | УлГУ | Full Stack (с перевесом на Backend) | 07.03.2021 |
 [Убайдулла Исаев](#убайдулла-исаев) | Дагестан | 1993 | ДГУ | Frontend-разработчик | 09.03.2021 |
@@ -56,8 +58,6 @@
 [Шамиль Шамилов](#шамиль-шамилов) | Грозный/Москва | 1996 | ГГНТУ | Android Developer | 08.03.2021 |
 [Эльбрус Гасанов](#эльбрус-гасанов) | Дагестан | 1994 | УрФУ | Backend (Python/Django) Developer | 07.03.2021 |
 [Яхья Картоев](#яхья-картоев) | Москва/Ингушетия | 1993 | МГТУ им. Баумана | Backend (Golang) Developer | 07.03.2021 |
-[Аушев Ибрагим](#аушев-ибрагим) | Ялта/Ингушетия | 1997 | КФУ. ГПА им Вернадского | Backend (PHP) Developer | 10.03.2021 |
-[Рустам Гулиев](#рустам-гулиев) | Москва | 1990 | МГУ | Backend | 10.03.2021 |
 
 ### Абдуллах Евлоев
 
@@ -157,6 +157,22 @@
 
 - [HeadHunter](https://hh.ru/resume/b99d1b6eff075f850c0039ed1f6f4669765975)
 
+### Ибрагим Аушев
+
+Технологии:
+- PHP (Laravel, Yii)
+- Node.js (Nest.js)
+- JavaScript (React.js, Vue.js)
+
+Контакты:
+
+- [Telegram](https://t.me/aushevibra)
+- [GitHub](https://github.com/aushev06)
+
+Резюме:
+
+- [Хабр Карьера](https://career.habr.com/aushev006)
+
 ### Илез Курскиев
 
 Технологии:
@@ -255,6 +271,17 @@
 - [Telegram](https://t.me/Renat_Suleymanov)
 - [GitHub](https://github.com/Al-Muhandis)
 - [Email](mailto:mail@Renat.Su)
+
+### Рустам Гулиев
+
+Технологии:
+- Python / Django
+
+Контакты:
+- [LinkedIn](https://www.linkedin.com/in/rustam-guliev-32947760/)
+- [GitHub](https://github.com/rguliev)
+- [GitLab](https://gitlab.com/rguliev)
+- [Instagram](https://www.instagram.com/rustam.r.guliev/)
 
 ### Рустам Зиннуров
 
@@ -367,31 +394,3 @@
 Резюме:
 
 - [Хабр Карьера](https://career.habr.com/yakartoev)
-
-### Аушев Ибрагим
-
-Технологии:
-- PHP (Laravel, Yii)
-- Node.js (Nest.js)
-- JavaScript (React.js, Vue.js)
-
-Контакты:
-
-- [Telegram](https://t.me/aushevibra)
-- [GitHub](https://github.com/aushev06)
-
-Резюме:
-
-- [Хабр Карьера](https://career.habr.com/aushev006)
-
-### Рустам Гулиев
-
-Технологии:
-- Python / Django
-
-Контакты:
-- [LinkedIn](https://www.linkedin.com/in/rustam-guliev-32947760/)
-- [GitHub](https://github.com/rguliev)
-- [GitLab](https://gitlab.com/rguliev)
-- [Instagram](https://www.instagram.com/rustam.r.guliev/)
-
