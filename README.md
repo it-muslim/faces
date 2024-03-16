@@ -239,7 +239,8 @@
 
 - Android: Kotlin, Java
 - Node.js: TypeScript, JavaScript
-- Front-end: Vue.js
+- Front-end: Vue.js, React:
+- Additional: DevOps, Project Management, Product Management
 
 Контакты:
 
